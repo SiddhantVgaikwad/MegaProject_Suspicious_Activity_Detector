@@ -1,0 +1,6 @@
+0 Fire
+1 Knife
+2 Gun
+3 Fight
+4 Smoke
+5 Accident 
