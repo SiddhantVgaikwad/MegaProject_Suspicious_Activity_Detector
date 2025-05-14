@@ -126,6 +126,6 @@ DKTE’s Final Year Engineering Team
 
 Faculty Guide: [Faculty Name Here]
 
-Contributors: [Add your team members here]
+Contributors: 
 
 
