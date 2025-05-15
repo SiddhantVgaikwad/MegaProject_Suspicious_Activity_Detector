@@ -116,11 +116,15 @@ https://teachablemachine.withgoogle.com
 
 https://opencv.org
 
+
 💼 License
 
 MIT License
 
 📢 Authors & Contributors
+Siddhant Gaikwad
+sandesh kamble
+Prasad Sabane
 
 DKTE’s Final Year Engineering Team
 
